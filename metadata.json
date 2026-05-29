@@ -1,0 +1,6 @@
+{
+  "name": "Zemmora Social Services",
+  "description": "Smart Administrative Platform for Social Services in Zemmora Municipality, Algeria",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
